@@ -1,14 +1,14 @@
 {
   "name": "new-react-canvas-gauges",
-  "version": "1.2.2a",
-  "description": "react-canvas-gauges",
+  "version": "1.2.2b",
+  "description": "new-react-canvas-gauges",
   "main": "dist/index.js",
   "scripts": {
     "build": "babel src/  --out-dir dist"
   },
   "repository": {
     "type": "git",
-    "url": "marcuscmy@gmail.com"
+    "url": "https://github.com/marcuscmy/react-canvas-gauges"
   },
   "babel": {
     "presets": [
@@ -24,9 +24,9 @@
   "author": "Marcus Chui <marcuscmy@gmail.com>",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "marcuscmy@gmail.com"
+    "url": "https://github.com/marcuscmy/react-canvas-gauges/issues"
   },
-  "homepage": "marcuscmy@gmail.com",
+  "homepage": "https://github.com/marcuscmy/react-canvas-gauges",
   "dependencies": {
     "canvas-gauges": "^2.1.7"
   },
