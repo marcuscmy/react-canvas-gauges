@@ -1,5 +1,5 @@
 # new-react-canvas-gauges
-[![GitHub stars](https://img.shields.io/github/stars/marcuscmy/new-react-canvas-gauges.svg?style=flat-square)](https://github.com/marcuscmy/new-react-canvas-gauges/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/marcuscmy/react-canvas-gauges.svg?style=flat-square)](https://github.com/marcuscmy/react-canvas-gauges/stargazers)
 [![npm version](https://img.shields.io/npm/v/new-react-canvas-gauges.svg?style=flat-square)](https://www.npmjs.com/package/new-react-canvas-gauges)
 [![npm license](https://img.shields.io/npm/l/new-react-canvas-gauges.svg?style=flat-square)]()
 [![npm](https://img.shields.io/npm/dw/new-react-canvas-gauges.svg?style=flat-square)]()
